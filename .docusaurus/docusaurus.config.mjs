@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "My Site Docusaurus",
+  "tagline": "Docusaurus are cool :)",
   "url": "https://github.com",
   "baseUrl": "/docusaurus-git-pages/",
   "onBrokenLinks": "throw",
