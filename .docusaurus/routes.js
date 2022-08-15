@@ -4,67 +4,77 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/docusaurus-git-pages/blog',
-    component: ComponentCreator('/docusaurus-git-pages/blog', '27c'),
+    component: ComponentCreator('/docusaurus-git-pages/blog', '91e'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/archive',
-    component: ComponentCreator('/docusaurus-git-pages/blog/archive', 'ca1'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/archive', '877'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/first-blog-post',
-    component: ComponentCreator('/docusaurus-git-pages/blog/first-blog-post', 'c6a'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/first-blog-post', '537'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/long-blog-post',
-    component: ComponentCreator('/docusaurus-git-pages/blog/long-blog-post', '9e7'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/long-blog-post', '8d7'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/mdx-blog-post',
-    component: ComponentCreator('/docusaurus-git-pages/blog/mdx-blog-post', 'f51'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/mdx-blog-post', '792'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/tags',
-    component: ComponentCreator('/docusaurus-git-pages/blog/tags', 'ca0'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/tags', 'a31'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/tags/docusaurus',
-    component: ComponentCreator('/docusaurus-git-pages/blog/tags/docusaurus', '6f5'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/tags/docusaurus', 'ff9'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/tags/facebook',
-    component: ComponentCreator('/docusaurus-git-pages/blog/tags/facebook', 'c54'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/tags/facebook', 'a41'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/tags/hello',
-    component: ComponentCreator('/docusaurus-git-pages/blog/tags/hello', '14b'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/tags/hello', '933'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/tags/hola',
-    component: ComponentCreator('/docusaurus-git-pages/blog/tags/hola', 'ce7'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/tags/hola', '7f1'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/blog/welcome',
-    component: ComponentCreator('/docusaurus-git-pages/blog/welcome', '053'),
+    component: ComponentCreator('/docusaurus-git-pages/blog/welcome', '666'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/markdown-page',
-    component: ComponentCreator('/docusaurus-git-pages/markdown-page', '333'),
+    component: ComponentCreator('/docusaurus-git-pages/markdown-page', 'a27'),
+    exact: true
+  },
+  {
+    path: '/docusaurus-git-pages/my-markdown-page',
+    component: ComponentCreator('/docusaurus-git-pages/my-markdown-page', '9ce'),
+    exact: true
+  },
+  {
+    path: '/docusaurus-git-pages/my-react-page',
+    component: ComponentCreator('/docusaurus-git-pages/my-react-page', 'cb0'),
     exact: true
   },
   {
     path: '/docusaurus-git-pages/docs',
-    component: ComponentCreator('/docusaurus-git-pages/docs', '198'),
+    component: ComponentCreator('/docusaurus-git-pages/docs', '2ce'),
     routes: [
       {
         path: '/docusaurus-git-pages/docs/category/tutorial---basics',
@@ -136,7 +146,7 @@ export default [
   },
   {
     path: '/docusaurus-git-pages/',
-    component: ComponentCreator('/docusaurus-git-pages/', 'c82'),
+    component: ComponentCreator('/docusaurus-git-pages/', '7ab'),
     exact: true
   },
   {
