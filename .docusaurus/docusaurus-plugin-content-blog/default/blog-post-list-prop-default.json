@@ -1,4 +1,9 @@
 {
   "title": "Recent posts",
-  "items": []
+  "items": [
+    {
+      "title": "Greetings!",
+      "permalink": "/docusaurus-git-pages/blog/greetings"
+    }
+  ]
 }
