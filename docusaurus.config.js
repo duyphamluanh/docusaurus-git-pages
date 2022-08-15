@@ -61,6 +61,7 @@ const config = {
         logo: {
           alt: 'OULMS-Documentation Logo',
           src: 'img/logo-blue.png',
+          srcDark: 'img/logo-dark.svg',
         },
         items: [
           {
@@ -78,7 +79,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           // {
           //   title: 'Docs',
