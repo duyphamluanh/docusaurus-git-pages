@@ -5,20 +5,20 @@
   "origins": {
     "210": [
       85,
+      89,
       103,
       529,
       532,
       610,
-      886,
       918,
       210
     ],
     "529": [
+      89,
       103,
       210,
       532,
       610,
-      886,
       529
     ],
     "972": [
@@ -28,6 +28,9 @@
       210,
       532,
       918
+    ],
+    "52674509": [
+      746
     ],
     "59362658": [
       267
@@ -46,20 +49,11 @@
       532,
       13
     ],
-    "02d00a24": [
-      32
-    ],
     "03181aef": [
       876
     ],
-    "098484ff": [
-      511
-    ],
     "0e384e19": [
       671
-    ],
-    "1a754369": [
-      89
     ],
     "1be78505": [
       532,
@@ -76,11 +70,11 @@
     "393be207": [
       414
     ],
-    "3e10b8d6": [
-      132
+    "39d855b0": [
+      174
     ],
-    "539f4489": [
-      433
+    "3e51ad6a": [
+      11
     ],
     "680e93bc": [
       241
@@ -91,6 +85,9 @@
       532,
       610
     ],
+    "6ffd4738": [
+      305
+    ],
     "73664a40": [
       36
     ],
@@ -99,6 +96,9 @@
     ],
     "7a6e8864": [
       770
+    ],
+    "80b18cd0": [
+      575
     ],
     "814f3328": [
       535
@@ -109,11 +109,14 @@
     "8717b14a": [
       948
     ],
-    "8bccebf1": [
-      351
+    "88733c72": [
+      93
     ],
-    "8cada632": [
-      50
+    "8bb8c43c": [
+      758
+    ],
+    "8e962e02": [
+      628
     ],
     "925b3f96": [
       3
@@ -121,8 +124,8 @@
     "935f2afb": [
       53
     ],
-    "97fc4489": [
-      34
+    "97be253f": [
+      255
     ],
     "9e4087bc": [
       608
@@ -131,14 +134,17 @@
       210,
       529,
       532,
-      886
+      89
+    ],
+    "aa41ef49": [
+      817
+    ],
+    "b59d7c90": [
+      558
     ],
     "c4f5d8e4": [
       532,
       195
-    ],
-    "c517903c": [
-      441
     ],
     "ccc49370": [
       210,
@@ -152,23 +158,17 @@
     "d9f32620": [
       914
     ],
-    "dfde43f7": [
-      120
+    "da649f5e": [
+      297
     ],
     "e273c56f": [
       362
     ],
-    "e51b95bf": [
-      915
-    ],
-    "ed013339": [
-      645
+    "eb1687ca": [
+      61
     ],
     "f4f34a3a": [
       636
-    ],
-    "f7da67a3": [
-      253
     ],
     "f8551aab": [
       743
@@ -176,6 +176,7 @@
     "styles": [
       13,
       85,
+      89,
       103,
       179,
       195,
@@ -184,7 +185,6 @@
       514,
       529,
       610,
-      886,
       918,
       532
     ]
@@ -193,9 +193,18 @@
     "3": {
       "js": [
         {
-          "file": "assets/js/925b3f96.6a5300e2.js",
-          "hash": "99845b8a8dc9bf9d",
-          "publicPath": "/docusaurus-git-pages/assets/js/925b3f96.6a5300e2.js"
+          "file": "assets/js/925b3f96.989c63e4.js",
+          "hash": "0a9a7b0d9bd303a7",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/925b3f96.989c63e4.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "assets/js/3e51ad6a.953a93dd.js",
+          "hash": "d1177e6a95eb370e",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/3e51ad6a.953a93dd.js"
         }
       ]
     },
@@ -204,52 +213,34 @@
         {
           "file": "assets/js/01a85c17.ece9b927.js",
           "hash": "9661324e9317267a",
-          "publicPath": "/docusaurus-git-pages/assets/js/01a85c17.ece9b927.js"
-        }
-      ]
-    },
-    "32": {
-      "js": [
-        {
-          "file": "assets/js/02d00a24.91a5232d.js",
-          "hash": "bc3e4d705c1576a6",
-          "publicPath": "/docusaurus-git-pages/assets/js/02d00a24.91a5232d.js"
-        }
-      ]
-    },
-    "34": {
-      "js": [
-        {
-          "file": "assets/js/97fc4489.851bbe31.js",
-          "hash": "b8efb09b953334e5",
-          "publicPath": "/docusaurus-git-pages/assets/js/97fc4489.851bbe31.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/01a85c17.ece9b927.js"
         }
       ]
     },
     "36": {
       "js": [
         {
-          "file": "assets/js/73664a40.31a7013b.js",
-          "hash": "0c39e67cfb28e54a",
-          "publicPath": "/docusaurus-git-pages/assets/js/73664a40.31a7013b.js"
-        }
-      ]
-    },
-    "50": {
-      "js": [
-        {
-          "file": "assets/js/8cada632.b9be4601.js",
-          "hash": "2dc2f1eeee8dfcaf",
-          "publicPath": "/docusaurus-git-pages/assets/js/8cada632.b9be4601.js"
+          "file": "assets/js/73664a40.1603e7e4.js",
+          "hash": "57436e48bb6b3226",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/73664a40.1603e7e4.js"
         }
       ]
     },
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.18238cf9.js",
-          "hash": "aceedac91afdbc09",
-          "publicPath": "/docusaurus-git-pages/assets/js/935f2afb.18238cf9.js"
+          "file": "assets/js/935f2afb.e55e13a7.js",
+          "hash": "64cee0991dac6228",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/935f2afb.e55e13a7.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/eb1687ca.aa653aef.js",
+          "hash": "b88206bd4500dae6",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/eb1687ca.aa653aef.js"
         }
       ]
     },
@@ -258,16 +249,25 @@
         {
           "file": "assets/js/1f391b9e.bc94fe50.js",
           "hash": "fc48f344cca8d891",
-          "publicPath": "/docusaurus-git-pages/assets/js/1f391b9e.bc94fe50.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/1f391b9e.bc94fe50.js"
         }
       ]
     },
     "89": {
       "js": [
         {
-          "file": "assets/js/1a754369.dfa49d2e.js",
-          "hash": "e94b7473a7b4fbd3",
-          "publicPath": "/docusaurus-git-pages/assets/js/1a754369.dfa49d2e.js"
+          "file": "assets/js/a6aa9e1f.1ece98c6.js",
+          "hash": "969c5e7c7d210b1e",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/a6aa9e1f.1ece98c6.js"
+        }
+      ]
+    },
+    "93": {
+      "js": [
+        {
+          "file": "assets/js/88733c72.d2c57b9f.js",
+          "hash": "e09fa912eec4e1c6",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/88733c72.d2c57b9f.js"
         }
       ]
     },
@@ -276,7 +276,7 @@
         {
           "file": "assets/js/ccc49370.e7288381.js",
           "hash": "8c4c4ba61fb6b782",
-          "publicPath": "/docusaurus-git-pages/assets/js/ccc49370.e7288381.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/ccc49370.e7288381.js"
         }
       ]
     },
@@ -285,34 +285,25 @@
         {
           "file": "assets/js/83928d9e.6f2b94ec.js",
           "hash": "642cbe948f188490",
-          "publicPath": "/docusaurus-git-pages/assets/js/83928d9e.6f2b94ec.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/83928d9e.6f2b94ec.js"
         }
       ]
     },
-    "120": {
+    "174": {
       "js": [
         {
-          "file": "assets/js/dfde43f7.69d72838.js",
-          "hash": "e029a35dcf564e88",
-          "publicPath": "/docusaurus-git-pages/assets/js/dfde43f7.69d72838.js"
-        }
-      ]
-    },
-    "132": {
-      "js": [
-        {
-          "file": "assets/js/3e10b8d6.97cc41cf.js",
-          "hash": "cc64634d739c272a",
-          "publicPath": "/docusaurus-git-pages/assets/js/3e10b8d6.97cc41cf.js"
+          "file": "assets/js/39d855b0.03b8f399.js",
+          "hash": "d5a4ec58ad715a6e",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/39d855b0.03b8f399.js"
         }
       ]
     },
     "179": {
       "js": [
         {
-          "file": "assets/js/main.13150fe0.js",
-          "hash": "f5be47d240529e79",
-          "publicPath": "/docusaurus-git-pages/assets/js/main.13150fe0.js"
+          "file": "assets/js/main.ce98c4bf.js",
+          "hash": "fcb822265780891d",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/main.ce98c4bf.js"
         }
       ]
     },
@@ -321,7 +312,7 @@
         {
           "file": "assets/js/c4f5d8e4.f81f0726.js",
           "hash": "c7e86d31ffd60d64",
-          "publicPath": "/docusaurus-git-pages/assets/js/c4f5d8e4.f81f0726.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/c4f5d8e4.f81f0726.js"
         }
       ]
     },
@@ -330,97 +321,79 @@
         {
           "file": "assets/js/210.2bb016d6.js",
           "hash": "707c35443218fa1b",
-          "publicPath": "/docusaurus-git-pages/assets/js/210.2bb016d6.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/210.2bb016d6.js"
         }
       ]
     },
     "241": {
       "js": [
         {
-          "file": "assets/js/680e93bc.f775c387.js",
-          "hash": "537f68c30625f5d9",
-          "publicPath": "/docusaurus-git-pages/assets/js/680e93bc.f775c387.js"
+          "file": "assets/js/680e93bc.9ee2c989.js",
+          "hash": "42a5508e56b29f85",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/680e93bc.9ee2c989.js"
         }
       ]
     },
-    "253": {
+    "255": {
       "js": [
         {
-          "file": "assets/js/f7da67a3.7cd901a2.js",
-          "hash": "6a0889fd0343aa75",
-          "publicPath": "/docusaurus-git-pages/assets/js/f7da67a3.7cd901a2.js"
+          "file": "assets/js/97be253f.117f4a23.js",
+          "hash": "91316255411c562e",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/97be253f.117f4a23.js"
         }
       ]
     },
     "267": {
       "js": [
         {
-          "file": "assets/js/59362658.43fbea1c.js",
-          "hash": "a7aa594b2cbbd623",
-          "publicPath": "/docusaurus-git-pages/assets/js/59362658.43fbea1c.js"
+          "file": "assets/js/59362658.5932e68e.js",
+          "hash": "82696cd694d440fb",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/59362658.5932e68e.js"
+        }
+      ]
+    },
+    "297": {
+      "js": [
+        {
+          "file": "assets/js/da649f5e.f0c25787.js",
+          "hash": "28bf8a13862063eb",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/da649f5e.f0c25787.js"
         }
       ]
     },
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.68f16818.js",
-          "hash": "2cb2fe1d45bd9e63",
-          "publicPath": "/docusaurus-git-pages/assets/js/runtime~main.68f16818.js"
+          "file": "assets/js/runtime~main.b145760a.js",
+          "hash": "0b7dd3165afdbbb9",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/runtime~main.b145760a.js"
         }
       ]
     },
-    "351": {
+    "305": {
       "js": [
         {
-          "file": "assets/js/8bccebf1.72714fcf.js",
-          "hash": "01d217a574d29209",
-          "publicPath": "/docusaurus-git-pages/assets/js/8bccebf1.72714fcf.js"
+          "file": "assets/js/6ffd4738.39fdaf64.js",
+          "hash": "f043b32a4b5a5c22",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/6ffd4738.39fdaf64.js"
         }
       ]
     },
     "362": {
       "js": [
         {
-          "file": "assets/js/e273c56f.bf831740.js",
-          "hash": "fd42ca098951aca9",
-          "publicPath": "/docusaurus-git-pages/assets/js/e273c56f.bf831740.js"
+          "file": "assets/js/e273c56f.550b8ff6.js",
+          "hash": "34ff7b7ffc6a20bb",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/e273c56f.550b8ff6.js"
         }
       ]
     },
     "414": {
       "js": [
         {
-          "file": "assets/js/393be207.ab012991.js",
-          "hash": "491dd1b72844f199",
-          "publicPath": "/docusaurus-git-pages/assets/js/393be207.ab012991.js"
-        }
-      ]
-    },
-    "433": {
-      "js": [
-        {
-          "file": "assets/js/539f4489.ccb048de.js",
-          "hash": "85d49d75cb7bd7f8",
-          "publicPath": "/docusaurus-git-pages/assets/js/539f4489.ccb048de.js"
-        }
-      ]
-    },
-    "441": {
-      "js": [
-        {
-          "file": "assets/js/c517903c.485b7b78.js",
-          "hash": "46d6c5cdab496221",
-          "publicPath": "/docusaurus-git-pages/assets/js/c517903c.485b7b78.js"
-        }
-      ]
-    },
-    "511": {
-      "js": [
-        {
-          "file": "assets/js/098484ff.b680c40c.js",
-          "hash": "103c861f65905c2b",
-          "publicPath": "/docusaurus-git-pages/assets/js/098484ff.b680c40c.js"
+          "file": "assets/js/393be207.04dc1b38.js",
+          "hash": "3315fa85bd6a772d",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/393be207.04dc1b38.js"
         }
       ]
     },
@@ -429,7 +402,7 @@
         {
           "file": "assets/js/529.75b93558.js",
           "hash": "f23ecfc6f5f0a2aa",
-          "publicPath": "/docusaurus-git-pages/assets/js/529.75b93558.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/529.75b93558.js"
         }
       ]
     },
@@ -438,25 +411,43 @@
         {
           "file": "assets/css/styles.95b304a2.css",
           "hash": "44f8feab5959e29b",
-          "publicPath": "/docusaurus-git-pages/assets/css/styles.95b304a2.css"
+          "publicPath": "/docusaurus-git-pages/vi/assets/css/styles.95b304a2.css"
         }
       ]
     },
     "535": {
       "js": [
         {
-          "file": "assets/js/814f3328.b2322aec.js",
-          "hash": "c26cc585d2bfc474",
-          "publicPath": "/docusaurus-git-pages/assets/js/814f3328.b2322aec.js"
+          "file": "assets/js/814f3328.ef8a5982.js",
+          "hash": "927ed1f7e9222ded",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/814f3328.ef8a5982.js"
+        }
+      ]
+    },
+    "558": {
+      "js": [
+        {
+          "file": "assets/js/b59d7c90.1fa269ff.js",
+          "hash": "4a65fe24a9f20c34",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/b59d7c90.1fa269ff.js"
+        }
+      ]
+    },
+    "575": {
+      "js": [
+        {
+          "file": "assets/js/80b18cd0.d30b1f56.js",
+          "hash": "32072991a443bf0f",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/80b18cd0.d30b1f56.js"
         }
       ]
     },
     "585": {
       "js": [
         {
-          "file": "assets/js/2d1ed783.2044afab.js",
-          "hash": "2408f2f13f86780a",
-          "publicPath": "/docusaurus-git-pages/assets/js/2d1ed783.2044afab.js"
+          "file": "assets/js/2d1ed783.fe324b5e.js",
+          "hash": "7959879dfa7329c6",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/2d1ed783.fe324b5e.js"
         }
       ]
     },
@@ -465,7 +456,7 @@
         {
           "file": "assets/js/d697708c.5aa4357c.js",
           "hash": "e6572bc27414fa39",
-          "publicPath": "/docusaurus-git-pages/assets/js/d697708c.5aa4357c.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/d697708c.5aa4357c.js"
         }
       ]
     },
@@ -474,7 +465,7 @@
         {
           "file": "assets/js/9e4087bc.a08f0072.js",
           "hash": "b3eef6d5c489831d",
-          "publicPath": "/docusaurus-git-pages/assets/js/9e4087bc.a08f0072.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/9e4087bc.a08f0072.js"
         }
       ]
     },
@@ -483,43 +474,43 @@
         {
           "file": "assets/js/6875c492.56d35dfe.js",
           "hash": "782e16d7427dfffd",
-          "publicPath": "/docusaurus-git-pages/assets/js/6875c492.56d35dfe.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/6875c492.56d35dfe.js"
+        }
+      ]
+    },
+    "628": {
+      "js": [
+        {
+          "file": "assets/js/8e962e02.e21127a1.js",
+          "hash": "1f277ff9e32acf38",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/8e962e02.e21127a1.js"
         }
       ]
     },
     "636": {
       "js": [
         {
-          "file": "assets/js/f4f34a3a.1e419530.js",
-          "hash": "a069388d1b0c8f80",
-          "publicPath": "/docusaurus-git-pages/assets/js/f4f34a3a.1e419530.js"
+          "file": "assets/js/f4f34a3a.cb89871b.js",
+          "hash": "9037e3a59afabd44",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/f4f34a3a.cb89871b.js"
         }
       ]
     },
     "642": {
       "js": [
         {
-          "file": "assets/js/7661071f.3c3af1e1.js",
-          "hash": "51c68de356e42a80",
-          "publicPath": "/docusaurus-git-pages/assets/js/7661071f.3c3af1e1.js"
-        }
-      ]
-    },
-    "645": {
-      "js": [
-        {
-          "file": "assets/js/ed013339.209eb95e.js",
-          "hash": "44ebda2d31d821c8",
-          "publicPath": "/docusaurus-git-pages/assets/js/ed013339.209eb95e.js"
+          "file": "assets/js/7661071f.b083c9fb.js",
+          "hash": "9dde998bce657f28",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/7661071f.b083c9fb.js"
         }
       ]
     },
     "671": {
       "js": [
         {
-          "file": "assets/js/0e384e19.55be6f9e.js",
-          "hash": "6564ce076f03c119",
-          "publicPath": "/docusaurus-git-pages/assets/js/0e384e19.55be6f9e.js"
+          "file": "assets/js/0e384e19.99cdb60b.js",
+          "hash": "05c6277a321f2550",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/0e384e19.99cdb60b.js"
         }
       ]
     },
@@ -528,7 +519,25 @@
         {
           "file": "assets/js/f8551aab.e9e2a403.js",
           "hash": "3e9369b1a2fe40ad",
-          "publicPath": "/docusaurus-git-pages/assets/js/f8551aab.e9e2a403.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/f8551aab.e9e2a403.js"
+        }
+      ]
+    },
+    "746": {
+      "js": [
+        {
+          "file": "assets/js/52674509.d31207e4.js",
+          "hash": "66b38b9e6515d847",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/52674509.d31207e4.js"
+        }
+      ]
+    },
+    "758": {
+      "js": [
+        {
+          "file": "assets/js/8bb8c43c.8d92e8df.js",
+          "hash": "b9a24c1bcc75e6ac",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/8bb8c43c.8d92e8df.js"
         }
       ]
     },
@@ -537,43 +546,34 @@
         {
           "file": "assets/js/7a6e8864.48442549.js",
           "hash": "906aabfecdcd31a5",
-          "publicPath": "/docusaurus-git-pages/assets/js/7a6e8864.48442549.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/7a6e8864.48442549.js"
+        }
+      ]
+    },
+    "817": {
+      "js": [
+        {
+          "file": "assets/js/aa41ef49.a6b7fe88.js",
+          "hash": "2592124f9f9b2fe1",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/aa41ef49.a6b7fe88.js"
         }
       ]
     },
     "876": {
       "js": [
         {
-          "file": "assets/js/03181aef.e519bf42.js",
-          "hash": "99c534379eea8bc2",
-          "publicPath": "/docusaurus-git-pages/assets/js/03181aef.e519bf42.js"
-        }
-      ]
-    },
-    "886": {
-      "js": [
-        {
-          "file": "assets/js/a6aa9e1f.243a7e4c.js",
-          "hash": "d985af228fdfe34e",
-          "publicPath": "/docusaurus-git-pages/assets/js/a6aa9e1f.243a7e4c.js"
+          "file": "assets/js/03181aef.d55212e4.js",
+          "hash": "411b7a96096695ed",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/03181aef.d55212e4.js"
         }
       ]
     },
     "914": {
       "js": [
         {
-          "file": "assets/js/d9f32620.a50c2f52.js",
-          "hash": "848b8371dae665e7",
-          "publicPath": "/docusaurus-git-pages/assets/js/d9f32620.a50c2f52.js"
-        }
-      ]
-    },
-    "915": {
-      "js": [
-        {
-          "file": "assets/js/e51b95bf.6240bccb.js",
-          "hash": "5a8ea6fd0399e939",
-          "publicPath": "/docusaurus-git-pages/assets/js/e51b95bf.6240bccb.js"
+          "file": "assets/js/d9f32620.d496028e.js",
+          "hash": "a07dbb681c00aea7",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/d9f32620.d496028e.js"
         }
       ]
     },
@@ -582,16 +582,16 @@
         {
           "file": "assets/js/17896441.88913f33.js",
           "hash": "a0f07e622a481420",
-          "publicPath": "/docusaurus-git-pages/assets/js/17896441.88913f33.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/17896441.88913f33.js"
         }
       ]
     },
     "948": {
       "js": [
         {
-          "file": "assets/js/8717b14a.c135a946.js",
-          "hash": "d22b967eed5a6822",
-          "publicPath": "/docusaurus-git-pages/assets/js/8717b14a.c135a946.js"
+          "file": "assets/js/8717b14a.c6c6d299.js",
+          "hash": "2d6d4f9b5b706f7a",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/8717b14a.c6c6d299.js"
         }
       ]
     },
@@ -600,12 +600,12 @@
         {
           "file": "assets/js/972.cbece732.js",
           "hash": "bd7e5efec37c616e",
-          "publicPath": "/docusaurus-git-pages/assets/js/972.cbece732.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/972.cbece732.js"
         },
         {
           "file": "assets/js/1be78505.65e5f03b.js",
           "hash": "c55b9e9f6409d26f",
-          "publicPath": "/docusaurus-git-pages/assets/js/1be78505.65e5f03b.js"
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/1be78505.65e5f03b.js"
         }
       ]
     }

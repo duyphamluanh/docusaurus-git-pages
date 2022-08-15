@@ -1,23 +1,23 @@
 {
-  "permalink": "/docusaurus-git-pages/blog/welcome",
+  "permalink": "/docusaurus-git-pages/vi/blog/welcome",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
   "date": "2021-08-26T00:00:00.000Z",
-  "formattedDate": "August 26, 2021",
+  "formattedDate": "26 tháng 8, 2021",
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/docusaurus-git-pages/blog/tags/facebook"
+      "permalink": "/docusaurus-git-pages/vi/blog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/docusaurus-git-pages/blog/tags/hello"
+      "permalink": "/docusaurus-git-pages/vi/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/docusaurus-git-pages/blog/tags/docusaurus"
+      "permalink": "/docusaurus-git-pages/vi/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.405,
@@ -53,10 +53,10 @@
   },
   "prevItem": {
     "title": "Greetings!",
-    "permalink": "/docusaurus-git-pages/blog/greetings"
+    "permalink": "/docusaurus-git-pages/vi/blog/greetings"
   },
   "nextItem": {
     "title": "MDX Blog Post",
-    "permalink": "/docusaurus-git-pages/blog/mdx-blog-post"
+    "permalink": "/docusaurus-git-pages/vi/blog/mdx-blog-post"
   }
 }

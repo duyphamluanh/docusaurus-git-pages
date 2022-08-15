@@ -4,10 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site Docusaurus",
-  "tagline": "Docusaurus are cool :)",
+  "title": "OULMS-Documentation",
+  "tagline": "OULMS-Documentation are cool :)",
   "url": "https://github.com",
-  "baseUrl": "/docusaurus-git-pages/",
+  "baseUrl": "/docusaurus-git-pages/vi/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -17,7 +17,8 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "vi"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -42,10 +43,10 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "OULMS-Documentation",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "OULMS-Documentation Logo",
+        "src": "img/logo-blue.png"
       },
       "items": [
         {
@@ -58,11 +59,6 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -78,39 +74,9 @@ export default {
               "to": "/docs/intro"
             }
           ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
         }
       ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 OULMS-Documentation, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

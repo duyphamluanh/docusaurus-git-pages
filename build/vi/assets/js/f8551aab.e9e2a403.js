@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_git_pages=self.webpackChunkdocusaurus_git_pages||[]).push([[743],{7574:(e,a,u)=>{u.r(a),u.d(a,{default:()=>l});var t=u(7294),s=u(2164);function l(){return t.createElement(s.Z,null,t.createElement("h1",null,"My React page"),t.createElement("p",null,"This is a React page"))}}}]);

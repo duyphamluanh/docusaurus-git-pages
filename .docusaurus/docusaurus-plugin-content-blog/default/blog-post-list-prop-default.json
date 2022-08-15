@@ -3,23 +3,23 @@
   "items": [
     {
       "title": "Greetings!",
-      "permalink": "/docusaurus-git-pages/blog/greetings"
+      "permalink": "/docusaurus-git-pages/vi/blog/greetings"
     },
     {
       "title": "Welcome",
-      "permalink": "/docusaurus-git-pages/blog/welcome"
+      "permalink": "/docusaurus-git-pages/vi/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/docusaurus-git-pages/blog/mdx-blog-post"
+      "permalink": "/docusaurus-git-pages/vi/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/docusaurus-git-pages/blog/long-blog-post"
+      "permalink": "/docusaurus-git-pages/vi/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/docusaurus-git-pages/blog/first-blog-post"
+      "permalink": "/docusaurus-git-pages/vi/blog/first-blog-post"
     }
   ]
 }

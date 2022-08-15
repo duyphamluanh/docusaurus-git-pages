@@ -1,18 +1,18 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docusaurus-git-pages/docs",
+      "path": "/docusaurus-git-pages/vi/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docusaurus-git-pages/docs",
+          "path": "/docusaurus-git-pages/vi/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docusaurus-git-pages/docs/intro",
+              "path": "/docusaurus-git-pages/vi/docs/intro",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -20,7 +20,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docusaurus-git-pages/docs/intro",
+                "path": "/docusaurus-git-pages/vi/docs/intro",
                 "label": "intro"
               }
             }
