@@ -27,14 +27,6 @@ export default {
     [
       "classic",
       {
-        "docs": {
-          "sidebarPath": "/var/www/html/eloguide/docusaurus-git-pages/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
         "theme": {
           "customCss": "/var/www/html/eloguide/docusaurus-git-pages/src/css/custom.css"
         }

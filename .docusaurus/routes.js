@@ -84,13 +84,13 @@ export default [
   },
   {
     path: '/docusaurus-git-pages/vi/docs',
-    component: ComponentCreator('/docusaurus-git-pages/vi/docs', 'bcb'),
+    component: ComponentCreator('/docusaurus-git-pages/vi/docs', '1e7'),
     routes: [
       {
         path: '/docusaurus-git-pages/vi/docs/intro',
-        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro', 'bf6'),
+        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro', 'e49'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "defaultSidebar"
       }
     ]
   },

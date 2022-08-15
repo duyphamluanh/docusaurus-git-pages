@@ -7,7 +7,7 @@
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
-    "tutorialSidebar": [
+    "defaultSidebar": [
       {
         "type": "link",
         "label": "Tutorial Intro",
@@ -21,7 +21,7 @@
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "defaultSidebar"
     }
   }
 }

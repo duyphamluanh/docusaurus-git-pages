@@ -13,12 +13,12 @@
             {
               "id": "intro",
               "path": "/docusaurus-git-pages/vi/docs/intro",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "defaultSidebar": {
               "link": {
                 "path": "/docusaurus-git-pages/vi/docs/intro",
                 "label": "intro"
