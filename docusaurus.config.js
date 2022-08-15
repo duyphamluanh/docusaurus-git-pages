@@ -61,7 +61,7 @@ const config = {
         logo: {
           alt: 'OULMS-Documentation Logo',
           src: 'img/logo-blue.png',
-          srcDark: 'img/logo-dark.svg',
+          srcDark: 'img/logo-dark.png',
         },
         items: [
           {
