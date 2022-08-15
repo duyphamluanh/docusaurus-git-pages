@@ -72,10 +72,6 @@ const config = {
             label: 'Guide',
           },
           {
-            type: 'docsVersionDropdown',
-            position: 'right',
-          },
-          {
             type: 'localeDropdown',
             position: 'right',
           },
