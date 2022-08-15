@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "hello",
+              "path": "/docusaurus-git-pages/docs/hello",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docusaurus-git-pages/docs/intro",
               "sidebar": "tutorialSidebar"

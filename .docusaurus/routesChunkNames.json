@@ -157,7 +157,7 @@
     },
     "config": "5e9f5e1a"
   },
-  "/docusaurus-git-pages/docs-2ce": {
+  "/docusaurus-git-pages/docs-37d": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "83928d9e"
@@ -171,6 +171,10 @@
   "/docusaurus-git-pages/docs/category/tutorial---extras-3d8": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "46011e2f"
+  },
+  "/docusaurus-git-pages/docs/hello-8a3": {
+    "__comp": "17896441",
+    "content": "9dfd250b"
   },
   "/docusaurus-git-pages/docs/intro-079": {
     "__comp": "17896441",

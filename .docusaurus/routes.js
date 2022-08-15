@@ -74,7 +74,7 @@ export default [
   },
   {
     path: '/docusaurus-git-pages/docs',
-    component: ComponentCreator('/docusaurus-git-pages/docs', '2ce'),
+    component: ComponentCreator('/docusaurus-git-pages/docs', '37d'),
     routes: [
       {
         path: '/docusaurus-git-pages/docs/category/tutorial---basics',
@@ -85,6 +85,12 @@ export default [
       {
         path: '/docusaurus-git-pages/docs/category/tutorial---extras',
         component: ComponentCreator('/docusaurus-git-pages/docs/category/tutorial---extras', '3d8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docusaurus-git-pages/docs/hello',
+        component: ComponentCreator('/docusaurus-git-pages/docs/hello', '8a3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

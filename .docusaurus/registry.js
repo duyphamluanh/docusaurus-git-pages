@@ -30,6 +30,7 @@ export default {
   '925b3f96': [() => import(/* webpackChunkName: '925b3f96' */ '@site/blog/2019-05-28-first-blog-post.md?truncated=true'), '@site/blog/2019-05-28-first-blog-post.md?truncated=true', require.resolveWeak('@site/blog/2019-05-28-first-blog-post.md?truncated=true')],
   '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ '~docs/default/version-current-metadata-prop-751.json'), '~docs/default/version-current-metadata-prop-751.json', require.resolveWeak('~docs/default/version-current-metadata-prop-751.json')],
   '97fc4489': [() => import(/* webpackChunkName: '97fc4489' */ '~blog/default/docusaurus-git-pages-blog-tags-docusaurus-ccc-list.json'), '~blog/default/docusaurus-git-pages-blog-tags-docusaurus-ccc-list.json', require.resolveWeak('~blog/default/docusaurus-git-pages-blog-tags-docusaurus-ccc-list.json')],
+  '9dfd250b': [() => import(/* webpackChunkName: '9dfd250b' */ '@site/docs/hello.md'), '@site/docs/hello.md', require.resolveWeak('@site/docs/hello.md')],
   '9e4087bc': [() => import(/* webpackChunkName: '9e4087bc' */ '@theme/BlogArchivePage'), '@theme/BlogArchivePage', require.resolveWeak('@theme/BlogArchivePage')],
   'a6aa9e1f': [() => import(/* webpackChunkName: 'a6aa9e1f' */ '@theme/BlogListPage'), '@theme/BlogListPage', require.resolveWeak('@theme/BlogListPage')],
   'c4f5d8e4': [() => import(/* webpackChunkName: 'c4f5d8e4' */ '@site/src/pages/index.js'), '@site/src/pages/index.js', require.resolveWeak('@site/src/pages/index.js')],

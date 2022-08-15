@@ -4,8 +4,8 @@
   "permalink": "/docusaurus-git-pages/docs/category/tutorial---extras",
   "navigation": {
     "previous": {
-      "title": "Congratulations!",
-      "permalink": "/docusaurus-git-pages/docs/tutorial-basics/congratulations"
+      "title": "Hi!",
+      "permalink": "/docusaurus-git-pages/docs/hello"
     },
     "next": {
       "title": "Manage Docs Versions",
