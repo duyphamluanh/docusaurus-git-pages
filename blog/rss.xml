@@ -4,10 +4,19 @@
         <title>My Site Docusaurus Blog</title>
         <link>https://github.com/docusaurus-git-pages/blog</link>
         <description>My Site Docusaurus Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Greetings!]]></title>
+            <link>https://github.com/docusaurus-git-pages/blog/greetings</link>
+            <guid>greetings</guid>
+            <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Congratulations, you have made your first post!]]></description>
+            <content:encoded><![CDATA[<p>Congratulations, you have made your first post!</p><p>Feel free to play around and edit this post as much you like.</p>]]></content:encoded>
+            <category>greetings</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://github.com/docusaurus-git-pages/blog/welcome</link>
