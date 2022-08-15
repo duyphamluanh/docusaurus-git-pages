@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/docusaurus-git-pages/blog',
-    component: ComponentCreator('/docusaurus-git-pages/blog', '91e'),
+    component: ComponentCreator('/docusaurus-git-pages/blog', 'a50'),
     exact: true
   },
   {
@@ -15,6 +15,11 @@ export default [
   {
     path: '/docusaurus-git-pages/blog/first-blog-post',
     component: ComponentCreator('/docusaurus-git-pages/blog/first-blog-post', '537'),
+    exact: true
+  },
+  {
+    path: '/docusaurus-git-pages/blog/greetings',
+    component: ComponentCreator('/docusaurus-git-pages/blog/greetings', '302'),
     exact: true
   },
   {
@@ -40,6 +45,11 @@ export default [
   {
     path: '/docusaurus-git-pages/blog/tags/facebook',
     component: ComponentCreator('/docusaurus-git-pages/blog/tags/facebook', 'a41'),
+    exact: true
+  },
+  {
+    path: '/docusaurus-git-pages/blog/tags/greetings',
+    component: ComponentCreator('/docusaurus-git-pages/blog/tags/greetings', 'e92'),
     exact: true
   },
   {

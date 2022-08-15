@@ -1,6 +1,70 @@
 {
   "blogPosts": [
     {
+      "id": "greetings",
+      "metadata": {
+        "permalink": "/docusaurus-git-pages/blog/greetings",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-08-15-blog-post.md",
+        "source": "@site/blog/2022-08-15-blog-post.md",
+        "title": "Greetings!",
+        "description": "Congratulations, you have made your first post!",
+        "date": "2022-08-15T00:00:00.000Z",
+        "formattedDate": "August 15, 2022",
+        "tags": [
+          {
+            "label": "greetings",
+            "permalink": "/docusaurus-git-pages/blog/tags/greetings"
+          }
+        ],
+        "readingTime": 0.1,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Joel Marcey",
+            "title": "Co-creator of Docusaurus 1",
+            "url": "https://github.com/JoelMarcey",
+            "image_url": "https://github.com/JoelMarcey.png",
+            "imageURL": "https://github.com/JoelMarcey.png"
+          },
+          {
+            "name": "Sébastien Lorber",
+            "title": "Docusaurus maintainer",
+            "url": "https://sebastienlorber.com",
+            "image_url": "https://github.com/slorber.png",
+            "imageURL": "https://github.com/slorber.png"
+          }
+        ],
+        "frontMatter": {
+          "slug": "greetings",
+          "title": "Greetings!",
+          "authors": [
+            {
+              "name": "Joel Marcey",
+              "title": "Co-creator of Docusaurus 1",
+              "url": "https://github.com/JoelMarcey",
+              "image_url": "https://github.com/JoelMarcey.png",
+              "imageURL": "https://github.com/JoelMarcey.png"
+            },
+            {
+              "name": "Sébastien Lorber",
+              "title": "Docusaurus maintainer",
+              "url": "https://sebastienlorber.com",
+              "image_url": "https://github.com/slorber.png",
+              "imageURL": "https://github.com/slorber.png"
+            }
+          ],
+          "tags": [
+            "greetings"
+          ]
+        },
+        "nextItem": {
+          "title": "Welcome",
+          "permalink": "/docusaurus-git-pages/blog/welcome"
+        }
+      },
+      "content": "Congratulations, you have made your first post!\n\nFeel free to play around and edit this post as much you like."
+    },
+    {
       "id": "welcome",
       "metadata": {
         "permalink": "/docusaurus-git-pages/blog/welcome",
@@ -54,6 +118,10 @@
             "hello",
             "docusaurus"
           ]
+        },
+        "prevItem": {
+          "title": "Greetings!",
+          "permalink": "/docusaurus-git-pages/blog/greetings"
         },
         "nextItem": {
           "title": "MDX Blog Post",

@@ -51,6 +51,10 @@
       "docusaurus"
     ]
   },
+  "prevItem": {
+    "title": "Greetings!",
+    "permalink": "/docusaurus-git-pages/blog/greetings"
+  },
   "nextItem": {
     "title": "MDX Blog Post",
     "permalink": "/docusaurus-git-pages/blog/mdx-blog-post"

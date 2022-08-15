@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Greetings!",
+      "permalink": "/docusaurus-git-pages/blog/greetings"
+    },
+    {
       "title": "Welcome",
       "permalink": "/docusaurus-git-pages/blog/welcome"
     },
