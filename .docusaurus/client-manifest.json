@@ -365,7 +365,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.286c36ad.js",
-          "hash": "49fa444ad785872c",
+          "hash": "1f6bf14e8d72d0ee",
           "publicPath": "/docusaurus-git-pages/vi/assets/js/runtime~main.286c36ad.js"
         }
       ]
@@ -409,9 +409,9 @@
     "532": {
       "css": [
         {
-          "file": "assets/css/styles.95b304a2.css",
-          "hash": "44f8feab5959e29b",
-          "publicPath": "/docusaurus-git-pages/vi/assets/css/styles.95b304a2.css"
+          "file": "assets/css/styles.cabca5c3.css",
+          "hash": "e693204bdb7bfc4d",
+          "publicPath": "/docusaurus-git-pages/vi/assets/css/styles.cabca5c3.css"
         }
       ]
     },
