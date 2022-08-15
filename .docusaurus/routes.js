@@ -19,11 +19,11 @@ export default [
   },
   {
     path: '/docusaurus-git-pages/vi/docs',
-    component: ComponentCreator('/docusaurus-git-pages/vi/docs', '1e7'),
+    component: ComponentCreator('/docusaurus-git-pages/vi/docs', '4f9'),
     routes: [
       {
         path: '/docusaurus-git-pages/vi/docs/intro',
-        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro', 'e49'),
+        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro', 'fc7'),
         exact: true,
         sidebar: "defaultSidebar"
       }

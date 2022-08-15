@@ -10,7 +10,7 @@
     "defaultSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Giới thiệu Hướng dẫn",
         "href": "/docusaurus-git-pages/vi/docs/intro",
         "docId": "intro"
       }
@@ -19,8 +19,8 @@
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Giới thiệu Hướng dẫn",
+      "description": "Hãy cùng khám phá  Docusaurus trong vòng chưa đầy 5 phút .",
       "sidebar": "defaultSidebar"
     }
   }

@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "OULMS-Documentation",
+    "description": "The title in the navbar"
+  },
+  "item.label.Guide": {
+    "message": "Guide",
+    "description": "Navbar item with label Guide"
+  }
+}

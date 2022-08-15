@@ -1,6 +1,5 @@
 export default {
   '03181aef': [() => import(/* webpackChunkName: '03181aef' */ '@site/src/pages/my-markdown-page.md'), '@site/src/pages/my-markdown-page.md', require.resolveWeak('@site/src/pages/my-markdown-page.md')],
-  '0e384e19': [() => import(/* webpackChunkName: '0e384e19' */ '@site/docs/intro.md'), '@site/docs/intro.md', require.resolveWeak('@site/docs/intro.md')],
   '17896441': [() => import(/* webpackChunkName: '17896441' */ '@theme/DocItem'), '@theme/DocItem', require.resolveWeak('@theme/DocItem')],
   '1be78505': [() => import(/* webpackChunkName: '1be78505' */ '@theme/DocPage'), '@theme/DocPage', require.resolveWeak('@theme/DocPage')],
   '1f391b9e': [() => import(/* webpackChunkName: '1f391b9e' */ '@theme/MDXPage'), '@theme/MDXPage', require.resolveWeak('@theme/MDXPage')],
@@ -10,4 +9,5 @@ export default {
   '83928d9e': [() => import(/* webpackChunkName: '83928d9e' */ '/var/www/html/eloguide/docusaurus-git-pages/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json'), '/var/www/html/eloguide/docusaurus-git-pages/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json', require.resolveWeak('/var/www/html/eloguide/docusaurus-git-pages/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json')],
   '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ '~docs/default/version-current-metadata-prop-751.json'), '~docs/default/version-current-metadata-prop-751.json', require.resolveWeak('~docs/default/version-current-metadata-prop-751.json')],
   'c4f5d8e4': [() => import(/* webpackChunkName: 'c4f5d8e4' */ '@site/src/pages/index.js'), '@site/src/pages/index.js', require.resolveWeak('@site/src/pages/index.js')],
-  'f8551aab': [() => import(/* webpackChunkName: 'f8551aab' */ '@site/src/pages/my-react-page.js'), '@site/src/pages/my-react-page.js', require.resolveWeak('@site/src/pages/my-react-page.js')],};
+  'f8551aab': [() => import(/* webpackChunkName: 'f8551aab' */ '@site/src/pages/my-react-page.js'), '@site/src/pages/my-react-page.js', require.resolveWeak('@site/src/pages/my-react-page.js')],
+  'fecb6510': [() => import(/* webpackChunkName: 'fecb6510' */ '@site/i18n/vi/docusaurus-plugin-content-docs/current/intro.md'), '@site/i18n/vi/docusaurus-plugin-content-docs/current/intro.md', require.resolveWeak('@site/i18n/vi/docusaurus-plugin-content-docs/current/intro.md')],};

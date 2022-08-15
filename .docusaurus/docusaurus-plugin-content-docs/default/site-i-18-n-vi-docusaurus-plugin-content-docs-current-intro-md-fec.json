@@ -1,0 +1,18 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Giới thiệu Hướng dẫn",
+  "description": "Hãy cùng khám phá  Docusaurus trong vòng chưa đầy 5 phút .",
+  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docusaurus-git-pages/vi/docs/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar"
+}

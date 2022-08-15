@@ -27,7 +27,6 @@ export default {
     [
       "classic",
       {
-        "docs": {},
         "blog": false,
         "theme": {
           "customCss": "/var/www/html/eloguide/docusaurus-git-pages/src/css/custom.css"
