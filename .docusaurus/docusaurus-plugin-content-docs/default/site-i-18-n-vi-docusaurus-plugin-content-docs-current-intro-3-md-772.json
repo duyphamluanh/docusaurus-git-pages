@@ -1,21 +1,21 @@
 {
-  "unversionedId": "intro",
-  "id": "intro",
-  "title": "Hướng dẫn 1",
+  "unversionedId": "intro3",
+  "id": "intro3",
+  "title": "Hướng dẫn 3",
   "description": "Hãy cùng khám phá Docusaurus trong vòng chưa đầy 5 phút.",
-  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/intro.md",
+  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/intro3.md",
   "sourceDirName": ".",
-  "slug": "/intro",
-  "permalink": "/docusaurus-git-pages/vi/docs/intro",
+  "slug": "/intro3",
+  "permalink": "/docusaurus-git-pages/vi/docs/intro3",
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "docs",
-  "next": {
+  "previous": {
     "title": "Hướng dẫn 2",
     "permalink": "/docusaurus-git-pages/vi/docs/intro2"
   }

@@ -1,12 +1,12 @@
 {
-  "unversionedId": "intro",
-  "id": "intro",
-  "title": "Tutorial Intro 1",
+  "unversionedId": "intro3",
+  "id": "intro3",
+  "title": "Tutorial Intro 3",
   "description": "Let's discover Docusaurus in less than 5 minutes.",
-  "source": "@site/docs/intro.md",
+  "source": "@site/docs/intro3.md",
   "sourceDirName": ".",
-  "slug": "/intro",
-  "permalink": "/docusaurus-git-pages/docs/intro",
+  "slug": "/intro3",
+  "permalink": "/docusaurus-git-pages/docs/intro3",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,7 +15,7 @@
     "sidebar_position": 1
   },
   "sidebar": "docs",
-  "next": {
+  "previous": {
     "title": "Tutorial Intro 2",
     "permalink": "/docusaurus-git-pages/docs/intro2"
   }

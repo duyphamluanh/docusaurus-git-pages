@@ -19,13 +19,25 @@ export default [
   },
   {
     path: '/docusaurus-git-pages/vi/docs',
-    component: ComponentCreator('/docusaurus-git-pages/vi/docs', '4f9'),
+    component: ComponentCreator('/docusaurus-git-pages/vi/docs', '69b'),
     routes: [
       {
         path: '/docusaurus-git-pages/vi/docs/intro',
-        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro', 'fc7'),
+        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro', '9cd'),
         exact: true,
-        sidebar: "defaultSidebar"
+        sidebar: "docs"
+      },
+      {
+        path: '/docusaurus-git-pages/vi/docs/intro2',
+        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro2', 'aa0'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docusaurus-git-pages/vi/docs/intro3',
+        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro3', 'cb0'),
+        exact: true,
+        sidebar: "docs"
       }
     ]
   },

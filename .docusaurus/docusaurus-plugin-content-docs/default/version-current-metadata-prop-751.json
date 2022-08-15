@@ -1,27 +1,79 @@
 {
   "pluginId": "default",
   "version": "current",
-  "label": "Next",
+  "label": "Phiên bản kế tiếp",
   "banner": null,
   "badge": false,
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
-    "defaultSidebar": [
+    "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Giới thiệu Hướng dẫn",
+        "label": "Hướng dẫn 1",
         "href": "/docusaurus-git-pages/vi/docs/intro",
         "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "Hướng dẫn 2",
+        "href": "/docusaurus-git-pages/vi/docs/intro2",
+        "docId": "intro2"
+      },
+      {
+        "type": "link",
+        "label": "Hướng dẫn 3",
+        "href": "/docusaurus-git-pages/vi/docs/intro3",
+        "docId": "intro3"
+      }
+    ],
+    "docs": [
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Hướng dẫn 1",
+            "href": "/docusaurus-git-pages/vi/docs/intro",
+            "docId": "intro"
+          },
+          {
+            "type": "link",
+            "label": "Hướng dẫn 2",
+            "href": "/docusaurus-git-pages/vi/docs/intro2",
+            "docId": "intro2"
+          },
+          {
+            "type": "link",
+            "label": "Hướng dẫn 3",
+            "href": "/docusaurus-git-pages/vi/docs/intro3",
+            "docId": "intro3"
+          }
+        ],
+        "collapsible": true
       }
     ]
   },
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Giới thiệu Hướng dẫn",
-      "description": "Hãy cùng khám phá  Docusaurus trong vòng chưa đầy 5 phút .",
-      "sidebar": "defaultSidebar"
+      "title": "Hướng dẫn 1",
+      "description": "Hãy cùng khám phá Docusaurus trong vòng chưa đầy 5 phút.",
+      "sidebar": "docs"
+    },
+    "intro2": {
+      "id": "intro2",
+      "title": "Hướng dẫn 2",
+      "description": "Hãy cùng khám phá Docusaurus trong vòng chưa đầy 5 phút.",
+      "sidebar": "docs"
+    },
+    "intro3": {
+      "id": "intro3",
+      "title": "Hướng dẫn 3",
+      "description": "Hãy cùng khám phá Docusaurus trong vòng chưa đầy 5 phút.",
+      "sidebar": "docs"
     }
   }
 }

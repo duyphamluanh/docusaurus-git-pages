@@ -5,7 +5,7 @@
       "versions": [
         {
           "name": "current",
-          "label": "Next",
+          "label": "Phiên bản kế tiếp",
           "isLast": true,
           "path": "/docusaurus-git-pages/vi/docs",
           "mainDocId": "intro",
@@ -13,12 +13,28 @@
             {
               "id": "intro",
               "path": "/docusaurus-git-pages/vi/docs/intro",
-              "sidebar": "defaultSidebar"
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro2",
+              "path": "/docusaurus-git-pages/vi/docs/intro2",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro3",
+              "path": "/docusaurus-git-pages/vi/docs/intro3",
+              "sidebar": "docs"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "defaultSidebar": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docusaurus-git-pages/vi/docs/intro",
+                "label": "intro"
+              }
+            },
+            "docs": {
               "link": {
                 "path": "/docusaurus-git-pages/vi/docs/intro",
                 "label": "intro"

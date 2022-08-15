@@ -4,15 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "OULMS-Documentation",
-  "tagline": "OULMS-Documentation are cool :)",
+  "title": "EloLMS Documentation",
+  "tagline": "EloLMS Documentation are cool",
   "url": "https://github.com",
   "baseUrl": "/docusaurus-git-pages/vi/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "duyphamluanh",
-  "projectName": "docusaurus-git-pages",
+  "organizationName": "openuniveristy",
+  "projectName": "elolms-documentation",
   "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "en",
@@ -27,6 +27,9 @@ export default {
     [
       "classic",
       {
+        "docs": {
+          "sidebarPath": "/var/www/html/eloguide/docusaurus-git-pages/sidebars.js"
+        },
         "blog": false,
         "theme": {
           "customCss": "/var/www/html/eloguide/docusaurus-git-pages/src/css/custom.css"
@@ -36,9 +39,9 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "OULMS-Documentation",
+      "title": "EloLMS Documentation",
       "logo": {
-        "alt": "OULMS-Documentation Logo",
+        "alt": "Site Logo",
         "src": "img/logo-blue.png",
         "srcDark": "img/logo-dark.png"
       },
@@ -47,11 +50,11 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Guide"
+          "label": "All Documents"
         },
         {
           "type": "localeDropdown",
-          "position": "right",
+          "position": "left",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
         }
@@ -61,7 +64,7 @@ export default {
     "footer": {
       "style": "light",
       "links": [],
-      "copyright": "Copyright © 2022 OULMS-Documentation, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 EloLMS Documentation, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

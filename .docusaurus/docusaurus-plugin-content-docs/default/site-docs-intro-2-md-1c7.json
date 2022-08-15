@@ -1,0 +1,26 @@
+{
+  "unversionedId": "intro2",
+  "id": "intro2",
+  "title": "Tutorial Intro 2",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/intro2.md",
+  "sourceDirName": ".",
+  "slug": "/intro2",
+  "permalink": "/docusaurus-git-pages/docs/intro2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tutorial Intro 1",
+    "permalink": "/docusaurus-git-pages/docs/intro"
+  },
+  "next": {
+    "title": "Tutorial Intro 3",
+    "permalink": "/docusaurus-git-pages/docs/intro3"
+  }
+}
