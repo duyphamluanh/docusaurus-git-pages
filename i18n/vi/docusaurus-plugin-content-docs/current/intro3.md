@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Hướng dẫn 1
+# Hướng dẫn 3
 
 Hãy cùng khám phá **Docusaurus trong vòng chưa đầy 5 phút**.
 

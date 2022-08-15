@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OULMS-Documentation',
-  tagline: 'OULMS-Documentation are cool :)',
+  title: 'EloLMS Documentation',
+  tagline: 'EloLMS Documentation are cool',
   url: 'https://github.com',
   baseUrl: '/docusaurus-git-pages/',
   onBrokenLinks: 'throw',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'duyphamluanh', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-git-pages', // Usually your repo name.
+  organizationName: 'openuniveristy', // Usually your GitHub org/user name.
+  projectName: 'elolms-documentation', // Usually your repo name.
   deploymentBranch: "gh-pages",
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -32,15 +32,8 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        // docs: {
-        //   lastVersion: 'current',
-        //   versions: {
-        //     current: {
-        //       label: '1.0.0',
-        //       path: '1.0.0',
-        //     },
-        // },
-        //   sidebarPath: require.resolve('./sidebars.js'),
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
@@ -52,7 +45,7 @@ const config = {
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
         //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        // },
+        },
         blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,9 +58,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'OULMS-Documentation',
+        title: 'EloLMS Documentation',
         logo: {
-          alt: 'OULMS-Documentation Logo',
+          alt: 'Site Logo',
           src: 'img/logo-blue.png',
           srcDark: 'img/logo-dark.png',
         },
@@ -76,11 +69,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Guide',
+            label: 'All Documents',
           },
           {
             type: 'localeDropdown',
-            position: 'right',
+            position: 'left',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
@@ -133,7 +126,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OULMS-Documentation, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} EloLMS Documentation, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -43,6 +43,10 @@
     "message": "Đóng",
     "description": "The ARIA label for close button of announcement bar"
   },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Trở lại đầu trang",
+    "description": "The ARIA label for the back to top button"
+  },
   "theme.blog.archive.title": {
     "message": "Lưu trữ",
     "description": "The page & hero title of the blog archive page"
@@ -50,10 +54,6 @@
   "theme.blog.archive.description": {
     "message": "Lưu trữ",
     "description": "The page & hero description of the blog archive page"
-  },
-  "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Trở lại đầu trang",
-    "description": "The ARIA label for the back to top button"
   },
   "theme.blog.paginator.navAriaLabel": {
     "message": "Thanh điều hướng của trang danh sách bài viết",
@@ -218,10 +218,6 @@
     "message": "Trên trang này",
     "description": "The label used by the button on the collapsible TOC component"
   },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "Một phút để đọc|{readingTime} phút để đọc",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
   "theme.blog.post.readMore": {
     "message": "Đọc tiếp",
     "description": "The label used in blog post item excerpts to link to full blog posts"
@@ -229,6 +225,10 @@
   "theme.blog.post.readMoreLabel": {
     "message": "Đọc thêm về {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Một phút để đọc|{readingTime} phút để đọc",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
     "message": "Thu gọn thanh bên",
@@ -249,5 +249,11 @@
   "theme.docs.sidebar.expandButtonAriaLabel": {
     "message": "Mở rộng thanh bên",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "All Documents": {
+    "message": "All Documents Vi"
+  },
+  "homepage.tagline": {
+    "message": "EloLMS Documentation are cool Vi"
   }
 }

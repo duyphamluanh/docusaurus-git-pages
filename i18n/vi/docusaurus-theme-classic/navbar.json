@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "OULMS-Documentation",
+    "message": "EloLMS Documentation",
     "description": "The title in the navbar"
   },
-  "item.label.Guide": {
-    "message": "Guide",
-    "description": "Navbar item with label Guide"
+  "item.label.All Documents": {
+    "message": "All Documents",
+    "description": "Navbar item with label All Documents"
   }
 }
