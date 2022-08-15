@@ -301,9 +301,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.b8050c8b.js",
-          "hash": "8e0db3ca76fad215",
-          "publicPath": "/docusaurus-git-pages/vi/assets/js/main.b8050c8b.js"
+          "file": "assets/js/main.28b2f391.js",
+          "hash": "f7e89617aaea8923",
+          "publicPath": "/docusaurus-git-pages/vi/assets/js/main.28b2f391.js"
         }
       ]
     },
@@ -365,7 +365,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.286c36ad.js",
-          "hash": "1f6bf14e8d72d0ee",
+          "hash": "9e8a313a92f86107",
           "publicPath": "/docusaurus-git-pages/vi/assets/js/runtime~main.286c36ad.js"
         }
       ]

@@ -38,7 +38,8 @@ export default {
       "title": "OULMS-Documentation",
       "logo": {
         "alt": "OULMS-Documentation Logo",
-        "src": "img/logo-blue.png"
+        "src": "img/logo-blue.png",
+        "srcDark": "img/logo-dark.svg"
       },
       "items": [
         {
@@ -51,7 +52,7 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "links": [],
       "copyright": "Copyright © 2022 OULMS-Documentation, Inc. Built with Docusaurus."
     },
