@@ -4,22 +4,6 @@
     {
       "title": "Greetings!",
       "permalink": "/docusaurus-git-pages/blog/greetings"
-    },
-    {
-      "title": "Welcome",
-      "permalink": "/docusaurus-git-pages/blog/welcome"
-    },
-    {
-      "title": "MDX Blog Post",
-      "permalink": "/docusaurus-git-pages/blog/mdx-blog-post"
-    },
-    {
-      "title": "Long Blog Post",
-      "permalink": "/docusaurus-git-pages/blog/long-blog-post"
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/docusaurus-git-pages/blog/first-blog-post"
     }
   ]
 }
