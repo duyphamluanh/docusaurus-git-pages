@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_git_pages=self.webpackChunkdocusaurus_git_pages||[]).push([[441],{6976:s=>{s.exports=JSON.parse('[{"label":"greetings","permalink":"/docusaurus-git-pages/blog/tags/greetings","count":1}]')}}]);

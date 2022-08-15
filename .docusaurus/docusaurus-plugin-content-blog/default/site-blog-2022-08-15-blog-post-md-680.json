@@ -52,5 +52,9 @@
     "tags": [
       "greetings"
     ]
+  },
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/docusaurus-git-pages/blog/welcome"
   }
 }
